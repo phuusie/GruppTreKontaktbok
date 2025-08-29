@@ -1,3 +1,19 @@
 h1 {
-  color: brown;
+    color: rgb(251, 255, 253);
+}
+
+h2 {
+    color: pink;
+}
+
+body {
+    background-color: rgb(255, 156, 172);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+ text-decoration: none;
+ color:rgb(255, 255, 255);
 }
