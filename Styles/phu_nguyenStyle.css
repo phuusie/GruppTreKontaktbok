@@ -1,0 +1,37 @@
+body {
+    background-color: lightskyblue;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    margin: 10px;
+}
+
+a:hover {
+    color: red;
+}
+
+li {
+    margin-top: 10px;
+}
+
+#pageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#profilePicture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}  
+
+#profilePictureBorder {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #000;
+    margin: 20px;
+}
